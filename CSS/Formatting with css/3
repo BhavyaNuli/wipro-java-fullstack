@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+		<style>
+			body {
+				text-align: center;
+				line-height: 50px;
+			}
+
+			#elem1 {
+				background-color: pink;
+			}
+
+			#elem2 {
+				background-color: green;
+			}
+
+			#elem3 {
+				background-color: yellow;
+			}
+
+			#elem4 {
+				background-color: orange;
+			}
+
+		</style>
+    </head>
+    <body>
+        <div id="elem1">
+            Element 1
+        </div>
+        <div id="elem2">
+            Element 2
+        </div>
+        <div id="elem3">
+            Element 3
+        </div>
+        <div id="elem4">
+            Element 4
+        </div>
+    </body>
+</html>
