@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+		<style>
+			ul {
+				list-style-image: url(pointer.png);
+			}
+		</style>
+    </head>
+   <body>
+        <ul>
+            <li>Me</li>
+            <li>Myself</li>
+            <li>I</li>
+            <li>Don't Do</li>
+            <li>This</li>
+        </ul>
+    </body>
+</html>
